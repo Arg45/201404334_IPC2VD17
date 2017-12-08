@@ -1,0 +1,8 @@
+
+		Ciclo de vida iterativo incremental
+
+Plantea el crecimiento de las fases por medio de las distintas 
+iteraciones que se realizarán a lo largo del proceso. En cada
+iteración se corregirán los errores de las fases anteriores,
+agregando la siguiente para la próxima entrega. No se requiere 
+de mucho personal, siempre que el software no se expanda demasiado.

@@ -1,0 +1,42 @@
+	
+	Ciclos de vida del Software
+
+Modelo en cascada
+	Es el modelo clásico de los ciclos de vida del software.
+	Se basa en la realización por capas y la finalización de las
+	mismas para continuar con la siguente. Se recomienda para 
+	proyectos grandes o de entrega a largo plazo. No se necesita
+	un grupo experimentado para trabajar. No acepta cambios.
+Modelo en V
+	Es una mejora al modelo en cascada, mantiene su organización 
+	y secuencia. Para cada etapa finalizada se realiza una 
+	verificación con pruebas para saber el éxito de la fase. Se 
+	recomienda para productos pequeños con poco equipo. Requiere
+	la finalización de una fase para continuar.
+Modelo basado en prototipos
+	También llamado evolutivo. Debido a su rapidez al desarrollar
+	el software se requiere de varias evaluaciones de parte del
+	cliente para lograr exitosamente el producto deseado. Se 
+	recomienda para productos pequeños o medianos. Se inicia con 
+	poca información de los reequerimientos.
+Modelo en espiral
+	Es una combinación de los modelos cascada y prototipos, excepto
+	que por cada entrega del producto se agrega la siguiente fase
+	además de la realización de nuevo de la misma fase, mejorada.
+	Se recomienda para sofwares muy elaborados a gran escala. Se
+	requiere de un equipo con mucha experiencia para evitar la 
+	frecuencia de errores.
+Desarrollo rápido de aplicaciones
+	Es una combinación de los modelos cascada y prototipos, pero 
+	añade velocidad al proceso. Divide el proyecto a módulos para
+	aligerar la carga de las fases, para luego integrarlo en la 
+	presentación final. Se realizan muchas citas con el cliente
+	para cubrir todas las necesidades que requiera. Son para 
+	proyectos de entrega a medio o corto plazo.
+Iterativo incremental
+	Plantea el crecimiento de las fases por medio de las distintas
+	iteraciones que se realizarán a lo largo del proceso. En cada
+	iteración se corregirán los errores de las fases anteriores,
+	agregando la siguiente para la próxima entrega. No se 
+	requiere de mucho personal, siempre que el software no se 
+	expanda demasiado.

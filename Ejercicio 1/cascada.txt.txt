@@ -1,0 +1,8 @@
+	
+	Ciclo de vida en cascada
+
+Es el modelo clásico de los ciclos de vida del software. Se basa en la 
+realización por capas y la finalización de las mismas para continuar 
+con la siguente. Se recomienda para proyectos grandes o de entrega a 
+largo plazo. No se necesita un grupo experimentado para trabajar. No 
+acepta cambios.
