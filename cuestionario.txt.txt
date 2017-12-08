@@ -1,0 +1,8 @@
+¿Qué entiende como "commit"?
+	Subir un archivo "a la nube" de manera parcial. Una especie
+	de hibernación hasta el próximo push
+¿Qué entiende como "merge"?
+	Nada, ese comando no lo entiendo
+¿Cuál es la diferencia entre "Pull" y "Push"?
+	Push es para subir los archivos
+	Pull es para bajarlos en la versión anterior o pasada
